@@ -1,0 +1,10 @@
+.movies {
+    color: blue;
+    border-style: dashed;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
