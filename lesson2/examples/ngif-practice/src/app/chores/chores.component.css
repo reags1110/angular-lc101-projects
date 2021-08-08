@@ -10,6 +10,9 @@ h3 {
     text-align: center;
 }
 
+p {
+    color: #ff4f33;
+}
 img {
     max-width: 15%;
     height: auto;
