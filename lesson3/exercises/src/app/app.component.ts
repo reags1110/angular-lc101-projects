@@ -51,7 +51,7 @@ export class AppComponent {
       this.height = 10000;
       this.width = 0;
       this.message = 'Shuttle in flight.';
-      this.takeOffEnabled = false;
+      this.takeOffEnabled = true;
     }
   }
 
